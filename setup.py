@@ -18,6 +18,10 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    url="https://github.com/jvngarcia/generate-routers-fastapi-generator",
+    project_urls={
+        "Bug Tracker": "https://github.com/jvngarcia/generate-routers-fastapi-generator/issues",
+    },
     install_requires=["requests"],
     packages = ['generate_routers'], 
     python_requires=">=3.6",
