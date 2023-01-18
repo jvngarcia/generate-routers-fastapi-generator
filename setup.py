@@ -27,7 +27,7 @@ setuptools.setup(
     python_requires=">=3.6",
     entry_points={
         "console_scripts": [
-            "make:router = plugins.cli:main",
+            "makerouter = generate_routers.cli:main",
         ]
     }
 )

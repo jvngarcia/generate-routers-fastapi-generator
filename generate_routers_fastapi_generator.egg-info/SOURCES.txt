@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+generate_routers/cli.py
+generate_routers/generate_routers.py
+generate_routers_fastapi_generator.egg-info/PKG-INFO
+generate_routers_fastapi_generator.egg-info/SOURCES.txt
+generate_routers_fastapi_generator.egg-info/dependency_links.txt
+generate_routers_fastapi_generator.egg-info/entry_points.txt
+generate_routers_fastapi_generator.egg-info/requires.txt
+generate_routers_fastapi_generator.egg-info/top_level.txt
