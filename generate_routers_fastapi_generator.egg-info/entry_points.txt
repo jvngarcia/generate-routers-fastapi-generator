@@ -1,2 +1,0 @@
-[console_scripts]
-makerouter = generate_routers.cli:main

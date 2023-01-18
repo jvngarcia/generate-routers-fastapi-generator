@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fhand:
 
 
 setuptools.setup(
-    name="generate-routers-fastapi-generator",
-    version="0.1.0",
+    name="generate-routers-fastapi-generator_jvngarcia",
+    version="0.1.1",
     author="Ángel García",
     author_email="angelgarciaweb@gmail.com",
     description=(
