@@ -21,9 +21,8 @@ Ingresa el nombre de la ruta: nombre_aqui
 ```
 
 Se generará el código en:
-````
+```
 app/routers/nombre_aqui.py
 main.py -> Crea el include de FastAPI
 imports_main.py -> Crea el import necesario
-
 ```
